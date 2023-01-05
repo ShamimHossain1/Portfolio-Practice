@@ -109,7 +109,7 @@ nav li {
     width: 750px;
     height: 576px;
     border-radius: 20%;
-    margin: 40px 75px 90px 65px;
+    margin: 40px 75px 150px 65px;
 }
 
 .banner button {
@@ -296,6 +296,9 @@ nav li {
 }
 
 /* Footer */
+.contact{
+    align-items: center;
+}
 .contact .social-title{
     text-align: left;
 }
@@ -339,3 +342,38 @@ footer {
 font-size: 35px;
 line-height: 48px;
 }
+.form input,textarea{ 
+
+    border: 0ch;
+    margin-top: 24px;
+
+
+}
+input{
+    padding: 20px;
+    width: 461px;
+    height: 34px;
+    left: 909px;
+    top: 3682px;
+}
+textarea{
+    padding: 20px;
+    width: 461px;
+height: 180px;
+left: 909px;
+top: 3858px;
+
+}
+.btn-form{
+    
+    margin-top: 20px;
+    background-color: rgb(255, 60, 60);
+    width: 150px;
+    height: 64px;
+    font-size: 20px;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    
+}
+
