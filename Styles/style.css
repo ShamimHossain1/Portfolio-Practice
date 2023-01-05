@@ -376,4 +376,10 @@ top: 3858px;
     border-radius: 5px;
     
 }
+.btn-form{
+    transition-duration: 0.4s;
+}
 
+.btn-contact:hover, .btn-primary:hover, .btn-form:hover{
+    background-color:green ;
+}
